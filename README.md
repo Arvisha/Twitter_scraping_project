@@ -4,8 +4,7 @@ Scraping of Data from Twitter using Snscrape.
 **Overview of the Twitter Scraping project:**
 This is a Python web application built with Streamlit that scrapes Twitter data based on a given keyword, start date, end date, and maximum number of tweets to scrape. The scraped data can be downloaded as a CSV or JSON file, or uploaded to a MongoDB database.
 
-## Getting Started
-###Prerequisites
+###Tech stack
 --> Python 3.7 or higher
 --> Streamlit 1.0 or higher
 --> Pandas 1.0 or higher
