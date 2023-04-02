@@ -1,4 +1,4 @@
-# Twitter_scrapping_project
+# Twitter_scraping_project
 Scraping of Data from Twitter using Snscrape.
 
 **Overview of the Twitter Scraping project:**
