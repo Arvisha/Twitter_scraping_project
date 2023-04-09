@@ -36,8 +36,6 @@ Downlaoded as json
 
 
 
-![image](https://user-images.githubusercontent.com/72925437/229354131-9a1408fa-a1e7-4cc9-b635-fb75c95de9b3.png)
-
 tweets uploaded in mongodb
 
 ![image](https://user-images.githubusercontent.com/72925437/229354153-4bccb6b4-6923-499b-ac91-08fdc818b915.png)
