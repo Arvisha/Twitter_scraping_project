@@ -17,6 +17,25 @@ Streamlit interface
 ![image](https://user-images.githubusercontent.com/72925437/229354083-2eb411b3-e16f-4e8a-8098-dc934f5d39d8.png)
 
 
+
+Downlaod buttons for csv and json file
+
+![image](https://user-images.githubusercontent.com/72925437/230754901-15d55edd-099c-46ce-93b3-324793fdbca8.png)
+
+
+Downlaoded as csv
+
+![image](https://user-images.githubusercontent.com/72925437/230754915-758975cd-a73d-4370-892d-eb8c991a6c45.png)
+
+
+
+Downlaoded as json
+
+![image](https://user-images.githubusercontent.com/72925437/230754933-62d01818-7bf9-463f-a01b-d210dddc2bf4.png)
+
+
+
+
 ![image](https://user-images.githubusercontent.com/72925437/229354131-9a1408fa-a1e7-4cc9-b635-fb75c95de9b3.png)
 
 tweets uploaded in mongodb
